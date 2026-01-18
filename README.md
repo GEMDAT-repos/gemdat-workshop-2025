@@ -8,7 +8,7 @@ REQUIREMENTS
 - Python 3.10 or newer
 - A working Python environment (virtualenv, conda, or similar)
 - (Optional) Your own MD simulation data, if you wish to explore beyond our provided examples
-- Simulation data: all simulation data are provided via the repository’s Releases as downloadable assets
+- Simulation data: all simulation data are provided via the repository’s [releases](https://github.com/GEMDAT-repos/Workshop-2025/releases) as downloadable assets
 
 INSTALLATION INSTRUCTIONS
 Choose one of the following methods to install GEMDAT:
@@ -41,3 +41,4 @@ We welcome suggestions, improvements, and pull requests. Your contributions help
 
 
 Thank you for participating in this workshop! We look forward to exploring GEMDAT together.
+
