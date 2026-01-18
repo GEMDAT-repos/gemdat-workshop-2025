@@ -5,7 +5,7 @@ This tutorials introduce **GEMDAT**, an open-source Python package for analyzing
 ## Requirements
 - Python 3.10 or newer
 - A working Python environment (**venv**, **conda**, or similar)
-- Example simulation data (provided in the [repository](https://github.com/GEMDAT-repos/Workshop-2025/tree/main/data) and its [**Releases**](https://github.com/GEMDAT-repos/Workshop-2025/releases) as downloadable assets)
+- Example simulation data (provided in the [repository](https://github.com/GEMDAT-repos/Workshop-2025/tree/main/data) and its [releases](https://github.com/GEMDAT-repos/Workshop-2025/releases) as downloadable assets)
 
 ## Installation
 
