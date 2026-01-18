@@ -15,19 +15,25 @@ This repository contains materials for a hands-on workshop on **GEMDAT**, an ope
 ### Option 1: Using venv
 
 Create and activate a new virtual environment:
+
   `python3 -m venv env` 
+  
   `source env/bin/activate`
 
 Then install GEMDAT:
+
   `python3 -m pip install gemdat`
 
 ### Option 2: Using Conda
 
 Create and activate a new conda environment:
+
   `conda create -n gemdat python=3.10` 
+  
   `conda activate gemdat`
 
 Then install GEMDAT:
+
   `pip install gemdat`
 
 ## Troubleshooting
@@ -38,5 +44,5 @@ GEMDAT source code: https://github.com/GEMDAT-repos/GEMDAT.git
 
 Suggestions, improvements, and pull requests are welcome.
 
-
 Thank you for participating in this workshop! We look forward to exploring GEMDAT together.
+
